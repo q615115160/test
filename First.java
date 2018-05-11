@@ -7,6 +7,9 @@ public class First{
 
 		//czctijiaode
 		hahah();
+		
+		//lisi分制的修改
+		youtianjia();
 
 	}
 	
