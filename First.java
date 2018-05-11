@@ -10,6 +10,7 @@ public class First{
 		
 		//lisi分制的修改
 		youtianjia();
+		aaa();
 
 	}
 	
